@@ -2,7 +2,7 @@
   "name": "nimbus",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://agnimitrac.github.io/nimbus",
+  "homePage": "https://agnimitrac.github.io/nimbus",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
