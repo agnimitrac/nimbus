@@ -1,0 +1,41 @@
+/* General styling for the home page */
+.home-container {
+    background-color: black; /* Black background */
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    color: white;
+  }
+  
+  /* Header styling */
+  .header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  /* Tab links in the header */
+  .header a {
+    color: rgba(0, 255, 255, 0.9); /* Neon blue color */
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    transition: 0.3s;
+    position: relative;
+    padding: 10px;
+    text-transform: uppercase;
+  }
+  
+  /* Neon glow effect */
+  .header a:hover {
+    color: rgba(0, 255, 255, 1);
+    text-shadow: 0 0 5px rgba(0, 255, 255, 0.7), 
+                 0 0 10px rgba(0, 255, 255, 0.7), 
+                 0 0 20px rgba(0, 255, 255, 1),
+                 0 0 30px rgba(0, 255, 255, 1);
+  }
+  
