@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nimbus/static/css/main.c4fe58a2.css",
+    "main.js": "/nimbus/static/js/main.bfb1cb56.js",
+    "static/js/453.fea3fefb.chunk.js": "/nimbus/static/js/453.fea3fefb.chunk.js",
+    "index.html": "/nimbus/index.html",
+    "main.c4fe58a2.css.map": "/nimbus/static/css/main.c4fe58a2.css.map",
+    "main.bfb1cb56.js.map": "/nimbus/static/js/main.bfb1cb56.js.map",
+    "453.fea3fefb.chunk.js.map": "/nimbus/static/js/453.fea3fefb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4fe58a2.css",
+    "static/js/main.bfb1cb56.js"
+  ]
+}
